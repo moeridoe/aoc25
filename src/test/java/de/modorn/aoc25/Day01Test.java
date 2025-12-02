@@ -18,6 +18,7 @@ class Day01Test {
 
     assertEquals(1052, actual);
   }
+  
   @Test
   void testTheExamplePartTwo() {
     int actual = Day01.solvePartTwo(EXAMPLE_INPUT);
